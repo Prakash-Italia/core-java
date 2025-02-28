@@ -6,7 +6,7 @@ public class FirstJavaProgram {
 	{	
 		System.out.println("Welcome to Java");
 		System.out.println(10+20);
-		system.out.println("Prakash");
+		System.out.println("Prakash");
 	}
 
 }
